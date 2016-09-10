@@ -88,7 +88,8 @@ public class Random
     // TODO Auto-generated method stub
    double time[]={153,101,99};
    System.out.println(mean(time));
-   System.out.println(sd(time));    
+   System.out.println(sd(time)); 
+   System.out.println();
   
 
   }
